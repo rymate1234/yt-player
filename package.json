@@ -15,7 +15,7 @@
     "@kevinwolf/formal-web": "^0.1.3",
     "@next/bundle-analyzer": "^10.0.1",
     "@types/fluent-ffmpeg": "^2.1.16",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "babel-plugin-lodash": "^3.3.4",
     "base64-arraybuffer": "^0.2.0",
     "blurhash": "^1.1.3",
